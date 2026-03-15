@@ -1,5 +1,42 @@
-# Vue 3 + Vite
+# Wellness Centre Website 🧘‍♀️
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Built with **Vue.js**, caffeine, and a questionable amount of AI assistance.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## What this is
+
+A modern **Wellness Centre website** designed to showcase services, spaces, and experiences in a clean and minimal layout.
+Black & white theme, smooth sections, and a simple user experience.
+
+## Tech Stack
+
+* **Vue.js**
+* **HTML / CSS**
+* **Figma** (design inspiration)
+* **Antigravity UI**
+* **Vercel** (free hosting because broke developer energy)
+
+## Live Website
+
+Check it out here:
+👉 https://wellness-center-ui.vercel.app/
+
+## Special Thanks
+
+* **Figma** – for making design look like I know what I'm doing
+* **Antigravity** – for speeding up the UI grind
+* **AI** – for writing code faster than my brain processes it
+
+## Developer Notes
+
+Some code written by me.
+Some code written by AI.
+Most of it debugged by me at **2 AM**.
+
+## Final Thoughts
+
+At this rate, AI might replace us soon…
+but until then, I'm still committing the code.
+
+---
+
+💀 *Built by a developer slowly being replaced by AI.*
